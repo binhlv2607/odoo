@@ -49,3 +49,6 @@ package.json
 /man/
 /share/
 /src/
+
+# file config
+yagi.local.conf
